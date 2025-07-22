@@ -1,45 +1,71 @@
-📂 List of Projects
-1. 🏡 House Price Prediction
-Goal: Predict house prices using features like lot area, year built, overall condition, etc.
+# 🧠 Machine Learning Projects Portfolio
 
-Dataset: Kaggle - House Prices: Advanced Regression Techniques
+Welcome to my curated collection of machine learning projects! This repository contains **16 diverse ML projects** that demonstrate my understanding of supervised learning, classification, regression, recommendation systems, and clustering. Each project is presented as a Jupyter Notebook for easy exploration.
 
-Model(s): Linear Regression, Ridge, Lasso, Gradient Boosting
+---
 
-Tech Used: Python, scikit-learn, pandas, matplotlib
+## 📚 Table of Contents
 
-Notebook: house_price.ipynb
+- [Overview](#overview)
+- [Project List](#project-list)
+- [Tech Stack](#tech-stack)
+- [How to Run](#how-to-run)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-2. 💉 Diabetes Prediction
-Goal: Predict whether a patient is diabetic based on medical attributes.
+---
 
-Dataset: Pima Indians Diabetes Dataset – UCI
+## 📌 Overview
 
-Model(s): Logistic Regression, Decision Tree, Random Forest
+This repository includes projects that:
+- Tackle real-world datasets
+- Apply data preprocessing and feature engineering
+- Use classification, regression, and clustering algorithms
+- Evaluate models using appropriate metrics
+- Visualize and interpret results
 
-Metrics: Accuracy, Precision, Recall, F1-Score
+---
 
-Notebook: diabetes.ipynb
+## 🚀 Project List
 
-3. 🧠 Autism Detection
-Goal: Classify individuals as autistic or not based on behavioral patterns and scores.
+| # | Project Title | Description |
+|---|---------------|-------------|
+| 1  | **Sonar Rock vs Mine** | Binary classification of sonar signals to detect rocks or mines. |
+| 2  | **Diabetes Prediction** | Predicts whether a person has diabetes based on health data. |
+| 3  | **House Price Prediction** | Predicts house prices using regression techniques. |
+| 4  | **Loan Status Prediction** | Determines whether a loan will be approved or not. |
+| 5  | *(Possibly missing)* | -- |
+| 6  | **Gold Price Prediction** | Predicts future gold prices using historical data. |
+| 7  | **Car Price Prediction** | Predicts resale value of cars based on various features. |
+| 8  | **Heart Disease Prediction** | Predicts if a person is at risk of heart disease. |
+| 9  | **Breast Cancer Classification** | Classifies tumor types (benign/malignant). |
+| 10 | **Titanic Survival Prediction** | Predicts survival on the Titanic (classic ML project). |
+| 11 | **Medical Insurance Cost Prediction** | Estimates insurance charges based on personal data. |
+| 12 | **Calories Burnt Prediction** | Predicts calories burned during exercise. |
+| 13 | **Customer Segmentation** | Clusters customers into segments using unsupervised learning. |
+| 14 | **Spam Mail Prediction** | Classifies email as spam or not spam using NLP. |
+| 15 | **Movie Recommendation System** | Recommends movies using collaborative filtering. |
+| 16 | **Big Mart Sales Prediction** | Predicts sales for a retail store chain. |
 
-Dataset: Autism Screening Data – UCI
+---
 
-Model(s): Logistic Regression, SVM, KNN
+## 🛠️ Tech Stack
 
-Notebook: autism.ipynb
+- **Languages**: Python 3.x
+- **Libraries**:
+  - `pandas`, `NumPy` – Data handling
+  - `Matplotlib`, `Seaborn` – Visualization
+  - `scikit-learn` – ML algorithms
+  - `XGBoost`, `LightGBM` – Advanced models (used in some)
+  - `NLTK`, `TfidfVectorizer` – For NLP-based project
+- **Tools**: Jupyter Notebook, VS Code, Google Colab
 
-4. 📈 Additional Projects
-You can also explore:
+---
 
-📉 Breast Cancer Prediction
+## 🧪 How to Run
 
-🧪 Heart Disease Detection
-
-🌱 Iris Flower Classification
-
-🧮 Student Performance Analysis
-
-🎯 Customer Churn Prediction
-and Many more
+1. **Clone this repo**:
+   ```bash
+   git clone https://github.com/HarishSidagam8/ml-projects.git
+   cd ml-projects
