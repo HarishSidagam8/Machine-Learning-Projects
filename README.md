@@ -47,12 +47,16 @@ This repository includes projects that:
 | 14 | **Spam Mail Prediction** | Classifies email as spam or not spam using NLP. |
 | 15 | **Movie Recommendation System** | Recommends movies using collaborative filtering. |
 | 16 | **Big Mart Sales Prediction** | Predicts sales for a retail store chain. |
+| 17 | **Customer Churn Prediction** | Predicts if a customer will leave a service. |
+| 18 | **Rainfall Prediction** | Predicts rainfall from weather data. |
+| 19 | **Autism Prediction** | Classifies autism using behavioral and medical data. |
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python 3.x
+- **Languages**: Python 3.10
 - **Libraries**:
   - `pandas`, `NumPy` – Data handling
   - `Matplotlib`, `Seaborn` – Visualization
